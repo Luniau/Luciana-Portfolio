@@ -33,6 +33,7 @@ p {font-size: 16px;
    font-weight: normal;
   line-height: 30px;
 }
+
 .container-fluid {color: var();}
 .navbar-brand { font-family: 'Parisienne', cursive;
 font-size: 50px;
